@@ -1,58 +1,25 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-
-
-
-/* Section CSS */
-
-
-
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
-
-.col-xs-1 {
-    background-color:white;
-    border: solid;
-}
-.col-xs-2 {
-    background-color:white ;
-    border: solid;
-}
-.col-xs-3 {
-    background-color:white;
-    border: solid;
-}
-.col-xs-4 {
-    background-color:white ;
-    border: solid;
-}
-.col-xs-6 {
-    background-color:white ;
-    border: solid;
-}
-.col-xs-8 {
-    background-color:white
- ;
-    border: solid;
-}
-.col-xs-12 {
-    background-color:white
+body {
+    background-color:  #ffb3ec
 ;
-    border: solid;
+
 }
-
-
+.thumbnail { 
+    background-color: #ffb3ec;
+    border:none;
+}
+.name {
+    font-family:"Times New Roman";
+    font-weight: bold;
+    font-size: 400%;
+}
+.navbar {
+    background-color: white;
+    font-family: "Times New Roman";
+    font-size:150%;
+}
+#home:hover {
+    color: pink;
+}
+.active:focus {
+    background-color:white;
+}
