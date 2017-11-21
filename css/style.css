@@ -23,3 +23,21 @@ body {
 .active:focus {
     background-color:white;
 }
+#me {
+    Color:white;
+    font-family: "Times New Roman";
+    font-size:150%;
+}
+#oh {
+    color:white;
+    font-size:300%;
+    font-family: "Times New Roman";
+}
+#nyc{
+    height: 300px;
+    width: 300px;
+}
+#me{
+    height: 300px;
+    width: 300px;
+}
